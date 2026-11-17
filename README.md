@@ -58,8 +58,6 @@ You got it! The answer was 42.
 
 ## Flowchart
 
-![Flowchart](NumGuessingGame_FlowChart.png)
-
 There's also a PDF version: [`NumGuessingGame_FlowChart.pdf`](NumGuessingGame_FlowChart.pdf)
 
 ## What I learned
